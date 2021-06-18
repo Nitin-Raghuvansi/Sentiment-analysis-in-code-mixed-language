@@ -20,7 +20,7 @@ Can simply run this model using the notebook
 # Result
 
 # Accuracy Plot
-![Screenshot](final confusion matrix2.)
+![Screenshot](final confusion matrix2.png)
 
 
 
