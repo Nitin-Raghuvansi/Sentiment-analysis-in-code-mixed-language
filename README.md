@@ -17,11 +17,8 @@ In this project work we will develop and train various RNN(LSTM & BiLSTM)model w
 ##### 2. hate_speech (1).ipynb, LSTM_with_SemEval_IIITH.ipynb, hatespeech_Bidirectional.ipynb, Bi_LSTM_Glove.ipynb:  This is the colab notebook  <br />
 Can simply run this model using the notebook 
 
-# Result
-
-# Accuracy Plot
-![Screenshot](final confusion matrix2.png)
-
+# Confusion Matrix
+![alt text](https://github.com/Nitin-Raghuvansi/Sentiment-analysis-in-code-mixed-language/blob/main/final%20confusion%20matrix2.png)
 
 
 # Scope of Improvement
