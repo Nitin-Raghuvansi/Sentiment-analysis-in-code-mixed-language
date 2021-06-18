@@ -14,17 +14,15 @@ In this project work we will develop and train various RNN(LSTM & BiLSTM)model w
 
 ## The shared folder contains the following files
 ##### 1. dataset :  This is the given dataset.
-##### 2. hate_speech (1).ipynb :  .
-##### 3. hate_speech (1).ipynb, LSTM_with_SemEval_IIITH.ipynb, hatespeech_Bidirectional.ipynb, Bi_LSTM_Glove.ipynb:  This is the colab notebook  <br />
+##### 2. hate_speech (1).ipynb, LSTM_with_SemEval_IIITH.ipynb, hatespeech_Bidirectional.ipynb, Bi_LSTM_Glove.ipynb:  This is the colab notebook  <br />
 Can simply run this model using the notebook 
 
 # Result
 
 # Accuracy Plot
-![Screenshot](Capture.PNG)
+![Screenshot](final confusion matrix2.)
 
-# Conclusion
-Model is underfit because dataset taken is very less 
+
 
 # Scope of Improvement
 Train on large dataset 
